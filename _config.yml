@@ -1,11 +1,11 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Many Hats Software 
+email: doug@manyhatssoftware.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-baseurl: ""
-url: "http://yourdomain.com"
-twitter_username: jekyllrb
-github_username:  jekyll
+baseurl: "http://www.manyhatssoftware.com"
+url: "http://www.manyhatssoftware.com"
+twitter_username: DougMulley
+github_username:  manyhatssoftware
 
 # Build settings
 markdown: kramdown
