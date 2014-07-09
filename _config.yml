@@ -1,7 +1,7 @@
 # Site settings
 title: Many Hats Software 
 email: doug@manyhatssoftware.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Custom software created by craftsmen. Software done right."
 baseurl: "http://www.manyhatssoftware.com"
 url: "http://www.manyhatssoftware.com"
 twitter_username: DougMulley
